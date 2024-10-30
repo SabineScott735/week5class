@@ -8,6 +8,8 @@ editor: visual
 library(ggplot2)
 library(here)
 library(janitor)
+library(rio)
+library(tidyverse)
 
 ```
 
